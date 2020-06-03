@@ -6,15 +6,15 @@ This project is a user friendly and easy to navigate website with a quality cont
 
 ## Project Repository:
 
-https://github.com/MeghanaPutta/QuizBuzz
+
 
 ## Project Management Plan link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PMP.md
+
 
 ## Work Breakdown Structure link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
+
 
 ## Team Name: The prosperous ones
 
@@ -29,7 +29,7 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
 ## Team Logo:
 
-![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/logo.PNG)
+
 
 ## Roles:
 
@@ -44,7 +44,7 @@ Our Project charter outlines the purpose, objectives, goals, scope, project budg
 
 ## Project Charter Link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
+
 
 ## Team Communication and Participation:
 
@@ -103,12 +103,10 @@ If any non-participating team member is present in our group, we will encourage 
 
 ## Team Signatures:
 
-Jyoshna Boppidi
+Raghunandan Naishadam 
 <br>
-Himabindu Poshala
+Priyanka Bodapati
 <br>
-Meghana Putta
+Mohan Pratapa
 <br>
-Preetham Potu
-<br>
-Abhiram Madugula
+Naga Anshitha
