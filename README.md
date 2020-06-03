@@ -1,8 +1,8 @@
-﻿# Project Title: QuizBuzz
+﻿# Project Title: Online Learning
 
 # Project Description:
 
-A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics in project management.
+This project is a user friendly and easy to navigate website with a quality content about all the process groups and the knowledge areas. We are going to explain about each process in detail along with their knowledge areas. We also provide an interface where students can post their questions if they have any and we will be having other students and teachers who can respond to the questions.
 
 ## Project Repository:
 
@@ -16,17 +16,16 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PMP.md
 
 https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
-## Team Name: Proj Pals
+## Team Name: The prosperous ones
 
 ## Team Members:
 
-• Jyoshna Boppidi<br>
-• Meghana Putta<br>
-• Himabindu Poshala<br>
-• Preetham Potu<br>
-• Abhiram Madugula<br>
+• Raghunandan Naishadam <br>
+• Priyanka Bodapati<br>
+• Mohan Pratapa<br>
+• Naga Anshitha<br>
 
-## Client: Dr. Denise Case
+## Client: Aziz Fellah	
 
 ## Team Logo:
 
