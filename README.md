@@ -33,12 +33,10 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
 ## Roles:
 
-Project sponsor – Abhiram Madugula (s534093@nwmissouri.edu)<br>
-Tester – Himabindu Poshala (s533727@nwmissouri.edu)<br>
-Developer – Jyoshna Boppidi (s533706@nwmissouri.edu)<br>
-Developer – Abhiram Madugula (s534093@nwmissouri.edu)<br>
-Quality analyst – Meghana Putta (s533909@nwmissouri.edu)<br>
-Project manager – Preetham Potu (s533713@nwmissouri.edu)<br>
+Project Manager – Raghunandan Naishadam (s537156@nwmissouri.edu)<br>
+Project Lead – Priyanka Bodapati (s536973@nwmissouri.edu)<br>
+Team member – Mohan Pratapa (s536982@nwmissouri.edu)<br>
+Team member – Naga Anshitha (s538408@nwmissouri.edu)<br>
 
 ## Project Charter:
 
